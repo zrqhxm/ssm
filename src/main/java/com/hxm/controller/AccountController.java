@@ -39,7 +39,4 @@ public class AccountController {
         accountService.saveAccount(account);
     }
 
-    public void test(){
-        System.out.println("测试idea中git的使用");
-    }
 }
